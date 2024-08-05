@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 100vh;
+    max-width: 100%;
+    background-color: rgb(130, 229, 229);
+}
+    .nav-bar{
+        height: 15%;
+        width: 100%;
+        background-color: rgb(10, 10, 10);
+    }
+    .home-page{
+        height: 85%;
+        width: 100%;
+    }
