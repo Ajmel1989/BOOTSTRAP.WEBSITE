@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 100vh;
+    max-width: 100%;
+    background-image: url(/background-image.jpg);
+}
+    .nav-bar{
+        padding-top: 25px;
+        /* display: flex; */
+        /* flex-direction: row; */
+        /* align-items: center; */
+        /* justify-content: center; */
+        height: 15%;
+        width: 100%;
+        background-color: rgb(19, 18, 18);
+        position: relative;
+        position: sticky;
+    }
+    .bi{
+        cursor: pointer;
+    }
+    .text{
+        font-weight: bolder;
+    }
+    .home-page{
+        height: 85%;
+        width: 100%;
+    }
+    .btn{
+        text-align: center;
+        margin-left: 20px;
+    }
